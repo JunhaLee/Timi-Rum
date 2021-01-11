@@ -1,3 +1,3 @@
 # Timi-Rum
 
-## System Development of Posture Correction Using Image Recognition
+## Development of Falling Accident Response System for the Elderly people
