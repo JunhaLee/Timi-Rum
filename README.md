@@ -12,3 +12,9 @@
 > Labeling dataset, Starting training dataset, Resolving some issuses from training
 > ### Day 4 (14th Jan.) 
 > Labeling dataset, Having a discussion for web UI design 
+> ### Day 5 (15th Jan.) 
+> Making dataset ourself, Labeling dataset, Debating about web implementation
+> ### Day 6 (18th Jan.) 
+> Labeling dataset, Completing training successfully, Starting to implementing web
+> ### Day 7 (19th Jan.) 
+> Attempting to connect yolo with django (web), Implementing web front end
