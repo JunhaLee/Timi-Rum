@@ -18,4 +18,10 @@
 > ### Day 6 (18th Jan.) 
 > Labeling dataset, Completing training successfully, Starting to implementing web
 > ### Day 7 (19th Jan.) 
-> Attempting to connect yolo with django (web), Implementing web front end
+> Attempting to run yolo on python, Implementing web front end, Connecting React with Django
+> ### Day 8 (20th Jan.) 
+> Running yolo on python, Attempting to making Django Server and DB
+> ### Day 9 (21th Jan.) 
+> Making Django server and DB using SQLite, Migrating systems from Windows to Ubuntu 
+> ### Day 10 (22th Jan.) 
+> Doing 5 minutes presentation, Connecting python files to Django and DB
