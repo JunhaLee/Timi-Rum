@@ -25,3 +25,7 @@
 > Making Django server and DB using SQLite, Migrating systems from Windows to Ubuntu 
 > ### Day 10 (22th Jan.) 
 > Doing 5 minutes presentation, Connecting python files to Django and DB, Preparing webOS connection with React and camera module
+
+## 🧩 Project Management
+
+> ### Notion : https://www.notion.so/Timi-Rum-156d1d5384a841cbba9b916bdc8ac38c
