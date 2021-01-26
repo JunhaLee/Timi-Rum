@@ -17,6 +17,8 @@ import icon_blue from './img/icon_blue.png';
 import icon_red from './img/icon_red.png';
 import icon_white from './img/icon_white.png';
 import item from './App.js';
+import Sound from 'react-sound';
+import e from './emergency.mp3';
 const WebcamComponent = () => <Webcam />;
 
 
@@ -60,6 +62,7 @@ state = {
                       muted={true}
                       width="600"
                       height="534"/>
+
                       </div>
                     </div>
                     <div className="col-md-6 col-lg-5">
@@ -150,14 +153,28 @@ state = {
 
                        {(function(){
                        if(item.content == 0){{
-                          return(<h2>~~~comporatble~~~</h2>)
+                          return(<h2>~~~comportable~~~</h2>)
                        }
                        }else if(item.content ==1 ){
                           return(<h2>!!! accident occur !!!</h2>)
                        }else if(item.content ==2 ){
-                       document.body.style.background='red'
+                       document.body.style.background='red';
                           return(<h2>!!! EMERGENCY !!!</h2>)
-                       }})()} </div>))}</div>
+                       }})()}
+
+                       {(function(){
+                       if(item.content == 2){
+                          return(<Sound
+      url={e}
+      playStatus={Sound.status.PLAYING}
+      playFromPosition={300 /* in milliseconds */}
+    />)
+                       }
+                       })()}
+
+
+
+                        </div>))}</div>
                       </div>
                     </div>
                   </div>
