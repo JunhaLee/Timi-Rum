@@ -25,6 +25,17 @@
 > Making Django server and DB using SQLite, Migrating systems from Windows to Ubuntu 
 > ### Day 10 (22th Jan.) 
 > Doing 5 minutes presentation, Connecting python files to Django and DB, Preparing webOS connection with React and camera module
+------------
+> ### Day 11 (25th Jan.) 
+> Installing webOS Virtual Machine, Finalizing web implementation
+> ### Day 12 (26th Jan.) 
+> Installing webOS Virtual Machine, Trying Connection react with webOS 
+> ### Day 13 (27th Jan.) 
+> Finishing to make final python code, Connnecting react with webOS
+> ### Day 14 (28th Jan.) 
+> Making PPT and Demonstration Video
+> ### Day 15 (29th Jan.) 
+> Final Presentation
 
 ## 🧩 Project Management
 
